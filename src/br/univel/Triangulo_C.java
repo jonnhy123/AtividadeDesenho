@@ -1,5 +1,5 @@
 package br.univel;
-
+//7 Commit na class Triangulo_C
 public class Triangulo_C implements Desenho {
 
 	public static int SIZE = 10;
