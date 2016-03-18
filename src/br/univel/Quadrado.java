@@ -8,7 +8,7 @@ package br.univel;
  *	****
  */
 public class Quadrado implements Desenho {
-
+// 3 Commit na class Quadrado
 	public static int SIZE = 8;
 	
 	@Override
