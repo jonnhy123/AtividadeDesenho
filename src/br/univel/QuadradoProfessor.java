@@ -1,5 +1,5 @@
 package br.univel;
-
+//4 Commit na class QuadradoProfessor
 public class QuadradoProfessor implements Desenho {
 
 	public static int SIZE = 8;
